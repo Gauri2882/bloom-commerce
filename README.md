@@ -1,33 +1,13 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/f3813d1f-16f2-4dff-a5a9-c12b088e3696
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/f3813d1f-16f2-4dff-a5a9-c12b088e3696) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Welcome to Bloom E-commerce
 
 Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Gauri2882/bloom-commerce
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd bloom-commerce
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -59,12 +39,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f3813d1f-16f2-4dff-a5a9-c12b088e3696) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
